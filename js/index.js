@@ -1,5 +1,5 @@
-import test from './test';
+import Func from './Func';
 
 (() => {
-    const Test = new test();
+    const func = new Func();
 })();

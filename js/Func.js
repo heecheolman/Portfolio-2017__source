@@ -2,7 +2,7 @@ import './../css/common.css';
 import './../assets/spaceStar.png';
 import './../assets/srcCode.png';
 
-class foo {
+class Func {
     constructor(){
         this.textSec = document.getElementsByClassName('textSec');
         this.header = document.getElementById('header');
@@ -67,4 +67,4 @@ class foo {
         }
     }
 }
-export default foo;
+export default Func;
