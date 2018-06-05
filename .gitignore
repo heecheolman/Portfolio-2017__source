@@ -1,0 +1,4 @@
+build/
+.idea/
+node_modules
+.ds_store
